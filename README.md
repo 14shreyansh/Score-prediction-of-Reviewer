@@ -4,4 +4,5 @@ The dataset (dataset1.csv) contains TripAdvisor scores along with features descr
 located in The Strip, Las Vegas.
 
 Question 1: Build a classification/regression model to predict scores for any new reviewer.
+
 Question 2: Identify features that are most relevant in the model
