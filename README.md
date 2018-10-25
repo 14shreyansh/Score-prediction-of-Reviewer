@@ -1,4 +1,4 @@
-# Data_Classification
+# Data_Regression
 
 The dataset (dataset1.csv) contains TripAdvisor scores along with features describing the reviewers and hotels
 located in The Strip, Las Vegas.
